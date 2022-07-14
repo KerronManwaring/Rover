@@ -1,3 +1,9 @@
+# by Kerron Manwaring
+
+# Nintendo Wii Nunchuk 
+# Arduino Nano
+# Xbee 900 RF Module Serial 
+
 #include <Wire.h>
 #include "Nunchuk.h"
 #include <Math.h>
